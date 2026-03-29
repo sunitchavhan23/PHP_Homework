@@ -77,22 +77,22 @@ show.php
 ## 📸 Screenshots
 ### Q1-Q3
 * INSERT
-![alt text](insert.png)
+- ![alt text](insert.png)
 
 * UPDATE
-![alt text](update.png)
+- ![alt text](update.png)
 
 * DELETE
-![alt text](delete.png)
+- ![alt text](delete.png)
 
 * SHOW
-![alt text](show.png)
+- ![alt text](show.png)
 
 
 ### Q4
 * Insert
-![alt text](Q4_a.png)
+- ![alt text](Q4_a.png)
 
 * Show
-![alt text](Q4_b.png)
+- ![alt text](Q4_b.png)
 ---
