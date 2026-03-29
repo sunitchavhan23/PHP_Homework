@@ -34,20 +34,20 @@ This project contains basic PHP programs demonstrating core concepts like arrays
 
 ## 📸 Screenshots
 - Q1
-![alt text](Q1.png)
+- ![alt text](Q1.png)
 
 - Q2
-![alt text](Q2.png)
+- ![alt text](Q2.png)
 
 - Q3
-![alt text](Q3.png)
+- ![alt text](Q3.png)
 
 - Q4
-![alt text](Q4.png)
+- ![alt text](Q4.png)
 
 - Q5
-![alt text](Q5.png)
+- ![alt text](Q5.png)
 
 - Q6
-![alt text](Q6.png)
+- ![alt text](Q6.png)
 
